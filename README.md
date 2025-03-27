@@ -10,7 +10,7 @@ Ce repository contient une série de Travaux Pratiques (TP) sur l'apprentissage 
 Les TP sont conçus pour aider les étudiants à comprendre et implémenter ces algorithmes dans des environnements simulés.
 ________________________________________
 
-# Table des Matières
+ 📚 **Table des Matières**
 1. [TP1 - Découverte d'OpenAI Gym](#tp1---découverte-dopenai-gym)  
 2. [TP2 - Q-Learning avec FrozenLake](#tp2---q-learning-avec-frozenlake)  
 3. [TP3 - Optimisation des Feux de Circulation](#tp3---optimisation-des-feux-de-circulation)  
@@ -19,7 +19,7 @@ ________________________________________
 6. [Installation](#installation)  
 7. [Ressources](#ressources)  
 ________________________________________
-# TP1 - Découverte d'OpenAI Gym
+🎯 **TP1 - Découverte d'OpenAI Gym**
 Objectifs
 •	Se familiariser avec les environnements de Reinforcement Learning
 •	Explorer l'environnement CartPole-v1
@@ -29,7 +29,7 @@ Résultats Clés
 •	Performance des actions aléatoires : ~20 pas avant échec
 •	Visualisation des états et récompenses
 ________________________________________
- # TP2 - Q-Learning avec FrozenLake
+ ❄️ TP2 - Q-Learning avec FrozenLake
 Objectifs
 •	Implémenter l'algorithme Q-Learning
 •	Comprendre l'exploration vs exploitation
@@ -42,19 +42,19 @@ Taux de réussite (aléatoire)	1.5%
 Taux de réussite (après Q-Learning)	75%
 Épisodes d'entraînement	5000
 ________________________________________
-# TP3 - Optimisation des Feux de Circulation
+🚦 TP3 - Optimisation des Feux de Circulation
 Comparaison Q-Learning vs SARSA
-# Q-Learning (off-policy)
+**Q-Learning (off-policy)**
 Q(s,a) ← Q(s,a) + α[r + γ max Q(s',a') - Q(s,a)]
 
-# SARSA (on-policy)
+**SARSA (on-policy)**
 Q(s,a) ← Q(s,a) + α[r + γ Q(s',a') - Q(s,a)]
 Performances
 Algorithme	Réduction Temps d'Attente
 Q-Learning	82%
 SARSA	78%
 ________________________________________
-# TP4 - PPO avec Taxi-v3
+🚖 TP4 - PPO avec Taxi-v3
 Proximal Policy Optimization
 Fonction objectif avec clipping :
 L(θ) = ᵜ[min(r_t(θ)A_t, clip(r_t(θ), 1-ε, 1+ε)A_t)]
@@ -87,7 +87,7 @@ pip install -r requirements.txt
 3.	Exécuter un TP :
 python tp1.py
 ________________________________________
-# Contributions
+🤝 Contributions
 Les contributions sont les bienvenues ! Pour proposer une modification :
 1.	Forker le repository
 2.	Créer une branche avec un nom explicite :
@@ -97,16 +97,16 @@ git commit -m "Ajout d'une nouvelle fonctionnalité"
 git push origin feature-nouvelle-fonctionnalite
 4.	Ouvrir une Pull Request sur GitHub.
 ________________________________________
-# Ressources
-Documentation :
-•	OpenAI Gymnasium
-•	Stable Baselines3
-Livres :
-•	"Reinforcement Learning: An Introduction" - Sutton & Barto
-•	"Deep Reinforcement Learning Hands-On" - Maxim Lapan
-Articles :
-•	Proximal Policy Optimization (PPO) - Schulman et al. 2017
-•	Q-Learning Convergence - Watkins & Dayan 1992
+📚 Ressources
+### 📖 Documentation Officielle
+- [OpenAI Gymnasium](https://gymnasium.farama.org/) - Environnements RL standardisés
+- [Stable Baselines3](https://stable-baselines3.readthedocs.io/) - Implémentation des algorithm
+### 📕 Livres Fondamentaux
+| Livre | Lien | Focus |
+|-------|------|-------|
+| *Reinforcement Learning: An Introduction* (Sutton & Barto) | [Lien PDF](http://incompleteideas.net/book/RLbook2020.pdf) | Théorie RL |
+| *Deep Reinforcement Learning Hands-On* (Maxim Lapan) | [Packt](https://www.packtpub.com/product/deep-reinforcement-learning-hands-on-second-edition/9781838826994) | Pratique avec PyTorch |
+
 ________________________________________
 📝 Remarques Finales
 Ce repository couvre les fondamentaux du Reinforcement Learning :
