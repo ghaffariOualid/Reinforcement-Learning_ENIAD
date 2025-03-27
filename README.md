@@ -65,6 +65,7 @@ $$ Q(s,a) ← Q(s,a) + α[r + γ \max Q(s',a') - Q(s,a)] $$
 ### 🎯 Objectifs  
 ✔ Comparer **Q-Learning** (*off-policy*) et **SARSA** (*on-policy*).  
 ✔ Optimiser les feux de circulation en **réduisant le temps d’attente**.  
+✔ Expérimenter avec un **environnement personnalisé** []simulant un réseau routier.    
 
 ### 🔢 Algorithmes  
 
