@@ -3,8 +3,9 @@
 **Université** : Mohamed Premier Oujda  
 **École** : Nationale de l'Intelligence Artificielle et du Digital Berkane  
 **Année universitaire** : 2024 / 2025  
-**Professeur** : [Mohamed Khalifa BOUTAHIR](mailto:email@example.com)  
-
+**Professeur** : [Mohamed Khalifa BOUTAHIR](email@example.com)  
+**Professeur** : [Mohamed Khalifa BOUTAHIR](email@example.com)  
+**Étudiant** : [Oualid Ghaffari](walid.ghiffario@gmail.com)  
 ---
 
 ## 📖 Introduction  
@@ -54,8 +55,8 @@ $$ Q(s,a) ← Q(s,a) + α[r + γ \max Q(s',a') - Q(s,a)] $$
 
 | Métrique                        | Valeur |
 |---------------------------------|--------|
-| Taux de réussite (aléatoire)    | 1.5%   |
-| Taux de réussite (après Q-Learning) | 75%   |
+| Taux de réussite (aléatoire)    | 0 %   |
+| Taux de réussite (après Q-Learning) | 100%   |
 | Épisodes d'entraînement         | 5000   |
 
 ---
@@ -103,6 +104,44 @@ $$ L(θ) = ᵜ[\min(r_t(θ)A_t, clip(r_t(θ), 1-ε, 1+ε)A_t)] $$
 
 ## 📂 Structure du Repository  
 
+- **ML2/**  
+  - 📁 `TP1/` - Découverte OpenAI Gym  
+  - 📁 `TP2/` - Q-Learning FrozenLake  
+  - 📁 `TP3/` - Feux de Circulation  
+  - 📁 `TP4/` - PPO Taxi-v3    
+  - 📄 `README.md` - Ce fichier  
 
 
+---
+## ✅ Prérequis  
+✔ **Python 3.x**  
+✔ **pip install --upgrade gymnasium pygame numpy**  
 
+---
+
+## 📚 Ressources  
+
+### 📖 Documentation Officielle  
+
+- 📌 [**OpenAI Gymnasium**](https://gymnasium.farama.org/) - Environnements RL standardisés.  
+- 📌 [**Stable Baselines3**](https://stable-baselines3.readthedocs.io/) - Implémentations avancées des algorithmes RL.  
+
+### 📕 Livres Fondamentaux  
+
+| 📘 Livre | 🔗 Lien | 🎯 Focus |
+|----------|--------|---------|
+| *Reinforcement Learning: An Introduction* (Sutton & Barto) | [📄 Lien PDF](http://incompleteideas.net/book/RLbook2020.pdf) | Théorie RL |
+| *Deep Reinforcement Learning Hands-On* (Maxim Lapan) | [🔗 Packt](https://www.packtpub.com/product/deep-reinforcement-learning-hands-on-second-edition/9781838826994) | Pratique avec PyTorch |
+
+---
+
+## 📝 Remarques Finales  
+
+📌 Ce repository couvre les **fondamentaux du Reinforcement Learning** à travers :  
+
+✅ Des **algorithmes tabulaires** (**Q-Learning, SARSA**).  
+✅ Des **méthodes avancées** (**PPO, policy gradient**).  
+✅ Des **applications pratiques** sur des problèmes réels.  
+✅ Des **visualisations et comparaisons** pour mieux comprendre chaque approche.  
+
+Nous espérons que ces ressources vous aideront dans votre apprentissage du **Reinforcement Learning** ! 💡🔥
