@@ -1,11 +1,10 @@
 # 📘 Machine Learning II - Reinforcement Learning
 
-**Université** : Mohamed Premier Oujda  
-**École** : Nationale de l'Intelligence Artificielle et du Digital Berkane  
-**Année universitaire** : 2024 / 2025  
-**Professeur** : [Mohamed Khalifa BOUTAHIR](email@example.com)  
-**Professeur** : [Mohamed Khalifa BOUTAHIR](email@example.com)  
-**Étudiant** : [Oualid Ghaffari](walid.ghiffario@gmail.com)  
+### **Université** : Mohamed Premier Oujda  
+### **École** : Nationale de l'Intelligence Artificielle et du Digital Berkane  
+### **Année universitaire** : 2024 / 2025  
+### **Professeur** : [Mohamed Khalifa BOUTAHIR](email@example.com)   
+### **Étudiant** : [Oualid Ghaffari](walid.ghiffario@gmail.com)  
 ---
 
 ## 📖 Introduction  
