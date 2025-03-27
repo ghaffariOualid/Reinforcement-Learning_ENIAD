@@ -1,14 +1,15 @@
-Machine Learning II - Reinforcement Learning
-Université Mohamed Premier Oujda
-École Nationale de l'Intelligence Artificielle et du Digital Berkane
-Année universitaire : 2024 / 2025
-Professeur : Mohamed Khalifa BOUTAHIR
+# Machine Learning II - Reinforcement Learning
+
+**Université** : Mohamed Premier Oujda  
+**École** : Nationale de l'Intelligence Artificielle et du Digital Berkane  
+**Année universitaire** : 2024 / 2025  
+**Professeur** : [Mohamed Khalifa BOUTAHIR](mailto:email@example.com) 
 ________________________________________
 📖 Introduction
 Ce repository contient une série de Travaux Pratiques (TP) sur l'apprentissage par renforcement ( Reinforcement Learning - RL). Il couvre les bases des algorithmes tabulaires comme le Q-Learning et SARSA, jusqu'aux méthodes plus avancées comme Proximal Policy Optimization (PPO).
 Les TP sont conçus pour aider les étudiants à comprendre et implémenter ces algorithmes dans des environnements simulés.
 ________________________________________
-📚 Table des Matières
+
 # Table des Matières
 1. [TP1 - Découverte d'OpenAI Gym](#tp1---découverte-dopenai-gym)  
 2. [TP2 - Q-Learning avec FrozenLake](#tp2---q-learning-avec-frozenlake)  
@@ -18,7 +19,7 @@ ________________________________________
 6. [Installation](#installation)  
 7. [Ressources](#ressources)  
 ________________________________________
-🎯 TP1 - Découverte d'OpenAI Gym
+# TP1 - Découverte d'OpenAI Gym
 Objectifs
 •	Se familiariser avec les environnements de Reinforcement Learning
 •	Explorer l'environnement CartPole-v1
@@ -28,7 +29,7 @@ Résultats Clés
 •	Performance des actions aléatoires : ~20 pas avant échec
 •	Visualisation des états et récompenses
 ________________________________________
-❄️ TP2 - Q-Learning avec FrozenLake
+ # TP2 - Q-Learning avec FrozenLake
 Objectifs
 •	Implémenter l'algorithme Q-Learning
 •	Comprendre l'exploration vs exploitation
@@ -41,7 +42,7 @@ Taux de réussite (aléatoire)	1.5%
 Taux de réussite (après Q-Learning)	75%
 Épisodes d'entraînement	5000
 ________________________________________
-🚦 TP3 - Optimisation des Feux de Circulation
+# TP3 - Optimisation des Feux de Circulation
 Comparaison Q-Learning vs SARSA
 # Q-Learning (off-policy)
 Q(s,a) ← Q(s,a) + α[r + γ max Q(s',a') - Q(s,a)]
@@ -53,7 +54,7 @@ Algorithme	Réduction Temps d'Attente
 Q-Learning	82%
 SARSA	78%
 ________________________________________
-🚖 TP4 - PPO avec Taxi-v3
+# TP4 - PPO avec Taxi-v3
 Proximal Policy Optimization
 Fonction objectif avec clipping :
 L(θ) = ᵜ[min(r_t(θ)A_t, clip(r_t(θ), 1-ε, 1+ε)A_t)]
@@ -86,7 +87,7 @@ pip install -r requirements.txt
 3.	Exécuter un TP :
 python tp1.py
 ________________________________________
-🤝 Contributions
+# Contributions
 Les contributions sont les bienvenues ! Pour proposer une modification :
 1.	Forker le repository
 2.	Créer une branche avec un nom explicite :
@@ -96,7 +97,7 @@ git commit -m "Ajout d'une nouvelle fonctionnalité"
 git push origin feature-nouvelle-fonctionnalite
 4.	Ouvrir une Pull Request sur GitHub.
 ________________________________________
-📚 Ressources
+# Ressources
 Documentation :
 •	OpenAI Gymnasium
 •	Stable Baselines3
