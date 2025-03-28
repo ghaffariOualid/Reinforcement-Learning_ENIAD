@@ -1,11 +1,15 @@
-# ![images](https://github.com/user-attachments/assets/e27b10c3-d8e0-4821-b7b9-f846e0161dd6)
- Machine Learning II - Reinforcement Learning
+![Bannière RL](https://github.com/user-attachments/assets/0287455f-2de3-4241-91fc-e5ecb3ccbb55)
 
-### **Université** : Mohamed Premier Oujda  
-### **École** : Nationale de l'Intelligence Artificielle et du Digital Berkane  
-### **Année universitaire** : 2024 / 2025  
-### **Professeur** : [Mohamed Khalifa BOUTAHIR](email@example.com)   
-### **Étudiant** : [Oualid Ghaffari](walid.ghiffario@gmail.com)  
+# Machine Learning II - Reinforcement Learning
+
+<div align="center">
+
+| Université | École | Année | Encadrant | Étudiant |
+|------------|-------|-------|-----------|----------|
+| [Mohamed Premier Oujda](https://www.univ-oujda.ac.ma/) | [ENIA Berkane](https://www.eniab.ma/) | 2024/2025 | [Pr. Mohamed Khalifa BOUTAHIR](mailto:email@example.com) | [Oualid Ghaffari](mailto:walid.ghiffario@gmail.com) |
+
+</div>
+
 ---
 
 ## 📖 Introduction  
