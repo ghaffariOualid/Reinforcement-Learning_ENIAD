@@ -4,7 +4,7 @@
 
 | Université | École | Année | Encadrant | Étudiant |
 |------------|-------|-------|-----------|----------|
-| [Mohamed Premier Oujda](https://www.univ-oujda.ac.ma/) | [ENIAD Berkane](https://www.eniab.ump.ma/) | 2024/2025 | [Pr. Mohamed Khalifa BOUTAHIR](mailto:email@example.com) | [Oualid Ghaffari](mailto:walid.ghiffario@gmail.com) |
+| [Mohamed Premier Oujda](https://www.univ-oujda.ac.ma/) | [ENIAD Berkane](https://eniad.ump.ma//) | 2024/2025 | [Pr. Mohamed Khalifa BOUTAHIR](mailto:email@example.com) | [Oualid Ghaffari](mailto:walid.ghiffario@gmail.com) |
 
 </div>
 
