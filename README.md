@@ -101,8 +101,11 @@ $$ L(θ) = ᵜ[\min(r_t(θ)A_t, clip(r_t(θ), 1-ε, 1+ε)A_t)] $$
 | Phase              | Taux de Réussite | Steps Moyens |
 |-------------------|----------------|-------------|
 | Avant entraînement | 0%             | 200+        |
-| Après 1000 épisodes | 92%            | 15.2        |
+| Après 1000 épisodes | 0%            | 333,3        |
 
+### 🚀 Échec → Solution : Hyperparamètres + Exploration
+
+(Optimiser les paramètres et améliorer l'exploration pour booster les performances)
 ---
 
 ## 📂 Structure du Repository  
