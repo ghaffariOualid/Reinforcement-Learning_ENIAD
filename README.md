@@ -105,10 +105,11 @@ $$ L(θ) = ᵜ[\min(r_t(θ)A_t, clip(r_t(θ), 1-ε, 1+ε)A_t)] $$
 ## 📂 Structure du Repository  
 
 - **ML2/**  
-  - 📁 `TP1/` - Découverte OpenAI Gym  
-  - 📁 `TP2/` - Q-Learning FrozenLake  
-  - 📁 `TP3/` - Feux de Circulation  
-  - 📁 `TP4/` - PPO Taxi-v3    
+  - `TP01/` - Découverte OpenAI Gym  
+  - `TP02/` - Q-Learning FrozenLake  
+  -  `TP03/` - Feux de Circulation  
+  -  `TP04/` - PPO Taxi-v3
+  -  `traffic_env/` - PPO Taxi-v3  
   - 📄 `README.md` - Ce fichier  
 
 
