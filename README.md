@@ -103,7 +103,7 @@ $$ L(θ) = ᵜ[\min(r_t(θ)A_t, clip(r_t(θ), 1-ε, 1+ε)A_t)] $$
 | Avant entraînement | 0%             | 200+        |
 | Après 1000 épisodes | 0%            | 333,3        |
 
-### 🚀 Échec → Solution : Hyperparamètres + Exploration
+### 🚀 Ajuster hyperparamètres, exploration, et récompenses pour réussite
 
 (Optimiser les paramètres et améliorer l'exploration pour booster les performances)
 ---
