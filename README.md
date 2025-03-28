@@ -16,7 +16,7 @@ Ce repository contient une série de **Travaux Pratiques (TP)** sur l'**Apprenti
 ---
 
 ## 📚 Table des Matières  
-1. [🔹 TP1 - Découverte d'OpenAI Gym](#-tp1---découverte-dopenai-gym)  
+1. [🔹 TP1 - Découverte d'OpenAI Gym](#[https://github.com/ghaffariOualid/Reinforcement-Learning_ENIAD/blob/main/TP01.ipynb])  
 2. [❄️ TP2 - Q-Learning avec FrozenLake](#-tp2---q-learning-avec-frozenlake)  
 3. [🚦 TP3 - Optimisation des Feux de Circulation](#-tp3---optimisation-des-feux-de-circulation)  
 4. [🚖 TP4 - PPO avec Taxi-v3](#-tp4---ppo-avec-taxi-v3)  
