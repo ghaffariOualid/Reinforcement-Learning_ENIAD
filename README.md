@@ -1,15 +1,45 @@
-![Bannière RL](https://github.com/user-attachments/assets/0287455f-2de3-4241-91fc-e5ecb3ccbb55)
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="width: 60%;">
+    <h1 style="color: #2e86c1;">المدرسة الوطنية للذكاء الاصطناعي والرقمي - بركان</h1>
+    <h2>ÉCOLE NATIONALE DE L’INTELLIGENCE ARTIFICIELLE ET DU DIGITAL - BERKANE</h2>
+    <h3>Machine Learning II - Reinforcement Learning</h3>
+    
+    <table style="width: 100%; border-collapse: collapse; margin-top: 20px;">
+      <tr>
+        <td style="padding: 8px; border-bottom: 1px solid #ddd;"><strong>Université</strong></td>
+        <td style="padding: 8px; border-bottom: 1px solid #ddd;">Mohamed Premier Oujda</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border-bottom: 1px solid #ddd;"><strong>École</strong></td>
+        <td style="padding: 8px; border-bottom: 1px solid #ddd;">ENIA Berkane</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border-bottom: 1px solid #ddd;"><strong>Année</strong></td>
+        <td style="padding: 8px; border-bottom: 1px solid #ddd;">2024/2025</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border-bottom: 1px solid #ddd;"><strong>Encadrant</strong></td>
+        <td style="padding: 8px; border-bottom: 1px solid #ddd;">Pr. Mohamed Khalifa BOUTAHIR</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px;"><strong>Étudiant</strong></td>
+        <td style="padding: 8px;">Oualid Ghaffari</td>
+      </tr>
+    </table>
+  </div>
 
-# Machine Learning II - Reinforcement Learning
-
-<div align="center">
-
-| Université | École | Année | Encadrant | Étudiant |
-|------------|-------|-------|-----------|----------|
-| [Mohamed Premier Oujda](https://www.univ-oujda.ac.ma/) | [ENIA Berkane](https://www.eniab.ma/) | 2024/2025 | [Pr. Mohamed Khalifa BOUTAHIR](mailto:email@example.com) | [Oualid Ghaffari](mailto:walid.ghiffario@gmail.com) |
-
+  <div style="width: 35%; text-align: right;">
+    <img src="https://github.com/user-attachments/assets/0287455f-2de3-4241-91fc-e5ecb3ccbb55" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </div>
 </div>
 
+<!-- Version Markdown standard pour compatibilité -->
+## 📚 Machine Learning II - Reinforcement Learning  
+**Université** : Mohamed Premier Oujda  
+**École** : ENIA Berkane  
+**Année** : 2024/2025  
+**Encadrant** : Pr. Mohamed Khalifa BOUTAHIR  
+**Étudiant** : Oualid Ghaffari  
 ---
 
 ## 📖 Introduction  
