@@ -1,11 +1,12 @@
- <img src="https://github.com/user-attachments/assets/0287455f-2de3-4241-91fc-e5ecb3ccbb55" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+# Machine Learning II - Reinforcement Learning
 
-## 📚 Machine Learning II - Reinforcement Learning  
-**Université** : Mohamed Premier Oujda  
-**École** : ENIAD Berkane  
-**Année** : 2024/2025  
-**Encadrant** : Pr. Mohamed Khalifa BOUTAHIR  
-**Étudiant** : Oualid Ghaffari  
+<div align="center">
+
+| Université | École | Année | Encadrant | Étudiant |
+|------------|-------|-------|-----------|----------|
+| [Mohamed Premier Oujda](https://www.univ-oujda.ac.ma/) | [ENIAD Berkane](https://www.eniab.ma/) | 2024/2025 | [Pr. Mohamed Khalifa BOUTAHIR](mailto:email@example.com) | [Oualid Ghaffari](mailto:walid.ghiffario@gmail.com) |
+
+</div>
 ---
 
 ## 📖 Introduction  
