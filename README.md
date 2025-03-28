@@ -7,6 +7,7 @@
 | [Mohamed Premier Oujda](https://www.univ-oujda.ac.ma/) | [ENIAD Berkane](https://www.eniab.ma/) | 2024/2025 | [Pr. Mohamed Khalifa BOUTAHIR](mailto:email@example.com) | [Oualid Ghaffari](mailto:walid.ghiffario@gmail.com) |
 
 </div>
+
 ---
 
 ## 📖 Introduction  
