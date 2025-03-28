@@ -110,7 +110,7 @@ $$ L(θ) = ᵜ[\min(r_t(θ)A_t, clip(r_t(θ), 1-ε, 1+ε)A_t)] $$
 
 ## 📂 Structure du Repository  
 
-- **ML2/**  
+- **Reinforcement-Learning_ENIAD/**  
   - `TP01/` - Découverte OpenAI Gym  
   - `TP02/` - Q-Learning FrozenLake  
   -  `TP03/` - Feux de Circulation  
