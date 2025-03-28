@@ -105,7 +105,7 @@ $$ L(θ) = ᵜ[\min(r_t(θ)A_t, clip(r_t(θ), 1-ε, 1+ε)A_t)] $$
 
 ### 🚀 Ajuster hyperparamètres, exploration, et récompenses pour réussite
 
-(Optimiser les paramètres et améliorer l'exploration pour booster les performances)
+#### (Optimiser les paramètres et améliorer l'exploration pour booster les performances)
 ---
 
 ## 📂 Structure du Repository  
