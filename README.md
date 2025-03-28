@@ -82,8 +82,8 @@ $$ Q(s,a) ← Q(s,a) + α[r + γ Q(s',a') - Q(s,a)] $$
 
 | Algorithme  | Réduction Temps d'Attente |
 |------------|--------------------------|
-| Q-Learning | 82%                      |
-| SARSA      | 78%                      |
+| Q-Learning | 90%                     |
+| SARSA      | 85%                     |
 
 ---
 
