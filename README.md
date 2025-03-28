@@ -1,4 +1,5 @@
-# 📘 Machine Learning II - Reinforcement Learning
+# ![images](https://github.com/user-attachments/assets/e27b10c3-d8e0-4821-b7b9-f846e0161dd6)
+ Machine Learning II - Reinforcement Learning
 
 ### **Université** : Mohamed Premier Oujda  
 ### **École** : Nationale de l'Intelligence Artificielle et du Digital Berkane  
